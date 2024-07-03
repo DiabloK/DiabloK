@@ -1,5 +1,5 @@
-<h2 align="left">Opa, meu nome é Vinicius. Estou tentando fazer um programa que possa fazer um café perfeito. /n
-Se precisar de mais alguma ajuda, estou à disposição!</h2>
+<h2 align="left">Opa, meu nome é Vinicius. Estou tentando fazer um programa que possa fazer um café perfeito. </h2> 
+<h2 align="left">Se precisar de mais alguma ajuda, estou à disposição!</h2>
 
 ###
 <div align="center">
