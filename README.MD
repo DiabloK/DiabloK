@@ -1,8 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/8dt781.jpg"  />
+<h2 align="left">Opa, meu nome é Vinicius. Estou tentando fazer um programa que possa fazer um café perfeito. /n
+Se precisar de mais alguma ajuda, estou à disposição!</h2>
 
 ###
 
@@ -21,6 +18,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/8dt781.jpg"  />
 
 ###
 
