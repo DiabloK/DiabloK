@@ -2,7 +2,9 @@
 Se precisar de mais alguma ajuda, estou à disposição!</h2>
 
 ###
-
+<div align="center">
+![Snake animation](https://github.com/DiabloK/DiabloK/blob/output/github-contribution-grid-snake.svg)
+</div>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -36,5 +38,7 @@ Se precisar de mais alguma ajuda, estou à disposição!</h2>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+![Snake animation](https://github.com/DiabloK/DiabloK/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
